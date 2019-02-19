@@ -1,13 +1,13 @@
 {
   "main.css": "/speedometer/static/css/main.b150a827.chunk.css",
-  "main.js": "/speedometer/static/js/main.d5c38454.chunk.js",
-  "main.js.map": "/speedometer/static/js/main.d5c38454.chunk.js.map",
+  "main.js": "/speedometer/static/js/main.f9206e2c.chunk.js",
+  "main.js.map": "/speedometer/static/js/main.f9206e2c.chunk.js.map",
   "runtime~main.js": "/speedometer/static/js/runtime~main.6b3b27f2.js",
   "runtime~main.js.map": "/speedometer/static/js/runtime~main.6b3b27f2.js.map",
-  "static/js/2.ba1ca5ba.chunk.js": "/speedometer/static/js/2.ba1ca5ba.chunk.js",
-  "static/js/2.ba1ca5ba.chunk.js.map": "/speedometer/static/js/2.ba1ca5ba.chunk.js.map",
+  "static/js/2.83883525.chunk.js": "/speedometer/static/js/2.83883525.chunk.js",
+  "static/js/2.83883525.chunk.js.map": "/speedometer/static/js/2.83883525.chunk.js.map",
   "index.html": "/speedometer/index.html",
-  "precache-manifest.129e15345163cbc7aa17aae15489d2a9.js": "/speedometer/precache-manifest.129e15345163cbc7aa17aae15489d2a9.js",
+  "precache-manifest.95e5cb9f5e19fa2d723fc5e49ef2158f.js": "/speedometer/precache-manifest.95e5cb9f5e19fa2d723fc5e49ef2158f.js",
   "service-worker.js": "/speedometer/service-worker.js",
   "static/css/main.b150a827.chunk.css.map": "/speedometer/static/css/main.b150a827.chunk.css.map",
   "static/media/logo.svg": "/speedometer/static/media/logo.5d5d9eef.svg"

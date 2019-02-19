@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/speedometer/precache-manifest.129e15345163cbc7aa17aae15489d2a9.js"
+  "/speedometer/precache-manifest.95e5cb9f5e19fa2d723fc5e49ef2158f.js"
 );
 
 workbox.clientsClaim();
